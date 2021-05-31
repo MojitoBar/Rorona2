@@ -6,3 +6,6 @@ Rorona developed with SwiftUI
 
 ### ScreenShots
 <img src="https://github.com/MojitoBar/Rorona2/blob/master/screenshot.gif" width="250"/>
+
+
+### Skill
